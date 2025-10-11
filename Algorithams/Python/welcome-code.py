@@ -5,7 +5,7 @@ def welcome_contributor(username):
     print("Happy coding!")
 
 # List of contributors
-contributors = ["Alice", "Bob", "Charlie", "David"]
+contributors = ["Alice", "Bob", "Charlie", "David","Malee"]
 
 # Welcome each contributor
 for contributor in contributors:
