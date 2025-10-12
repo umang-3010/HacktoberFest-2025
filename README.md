@@ -1,5 +1,5 @@
-# Hacktoberfest 2024 Open Pull Request
-![HacktoberFest 2024](https://github.com/ossamamehmood/Hacktoberfest2022/raw/main/.github/logo.png)
+# Hacktoberfest 2025 Open Pull Request
+![HacktoberFest 2025](https://github.com/ossamamehmood/Hacktoberfest2022/raw/main/.github/logo.png)
 
 <div align="center">
 
