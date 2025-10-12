@@ -82,6 +82,8 @@ To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 '''
 ```
 
-<tr><td align="center"><a href="https://github.com/madhesh-v"><kbd><img src="https://avatars.githubusercontent.com/u/83573352?v=4?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Madhesh Velu</b></sub></a><br /></td>
+## 👥 Contributors
 
-</tr>
+Thanks to all the amazing people who have contributed to this project:
+
+[![Contributors](https://contrib.rocks/image?repo=Madhesh-V/HacktoberFest-2025)](https://github.com/Madhesh-V/HacktoberFest-2025/graphs/contributors)
