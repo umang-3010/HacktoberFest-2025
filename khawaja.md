@@ -1,5 +1,5 @@
 ---
 name: Khawaja Azfar  
-Role: AI KDEVELOPER
+Role: AI DEVELOPER
 github: khawajaazfar
 ---
